@@ -5,7 +5,7 @@ void main(){
     debugShowCheckedModeBanner: false,
     title: "ToDo App",
     home: TODOAPP(),
-    theme: ThemeData(primarySwatch: Colors.black),
+    theme: ThemeData(primarySwatch: Colors.yellow),
   ));
 }
 
